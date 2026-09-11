@@ -16,9 +16,9 @@
                 Margin="0,20,0,10" />
 
             <Image
-                Source=""
+                Source="background.jpg"
                 HorizontalOptions="Center"
-                HeightRequest="200"
+                HeightRequest="700"
                 />
 
             <Label
