@@ -5,8 +5,22 @@
              Title="OnePiecePage">
     <VerticalStackLayout>
         <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
+            Text="One Piece"
+            FontSize="24"
+            FontAttributes="Bold"
+            HorizontalTextAlignment="Center"
+            Margin="0,20,0,10"/>
+
+        <Label 
+            Text="One Piece é uma jornada épica sobre liberdade, amizade e a busca pelos próprios sonhos. A história acompanha Monkey D. Luffy, um jovem que ganhou o poder de esticar o corpo como borracha após comer uma Akuma no Mi (Fruta do Diabo). Inspirado pelo lendário pirata Shanks, o Ruivo, Luffy decide se lançar ao mar para encontrar o One Piece — o tesouro supremo deixado por Gol D. Roger, o Rei dos Piratas — e, assim, conquistar o título de novo Rei dos Piratas.Para enfrentar os perigos do oceano, Luffy reúne uma tripulação diversa e leal, os Piratas do Chapéu de Palha, que inclui o espadachim Zoro, a navegadora Nami, o atirador Usopp e o cozinheiro Sanji. Navegando pela Grand Line e pelo Novo Mundo, o grupo enfrenta a tirania do Governo Mundial, a Marinha e os poderosos imperadores dos mares (Yonkou). Pelo caminho, eles libertam ilhas inteiras de opressores, descobrem segredos sobre o 'Século Perdido' da história mundial e fortalecem seus laços, tudo isso impulsionado pelo espírito inabalável de Luffy de que ninguém deve ter sua liberdade tirada."
+            FontSize="16"
+            HorizontalTextAlignment="Center"
+            Margin="20,20,20,10"/>
+
+        <Image
+            Source="onepiece.png"
+            HorizontalOptions="Center"
+            HeightRequest="300"
+            />
     </VerticalStackLayout>
 </ContentPage>
