@@ -5,8 +5,22 @@
              Title="OnePunchManPage">
     <VerticalStackLayout>
         <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
+    Text="One Punch Man"
+    FontSize="24"
+    FontAttributes="Bold"
+    HorizontalTextAlignment="Center"
+    Margin="0,20,0,10"/>
+
+        <Label 
+    Text="Saitama é um homem comum que treinou tanto para se tornar herói que ficou careca e ganhou um poder absurdo: ele derrota qualquer inimigo com apenas um soco. Longe de estar feliz, ele vive em um tédio profundo, pois nenhuma batalha lhe traz mais adrenalina. Ao lado de seu discípulo ciborgue, Genos, Saitama entra para a Associação de Heróis em busca de reconhecimento, mas acaba no ranque mais baixo devido ao seu jeito desligado. Enquanto o mundo enfrenta invasões alienígenas, monstros e vilões perigosos como Garou, os heróis de elite sofrem para defender a Terra, mas Saitama resolve tudo instantaneamente com um soco — e quase nunca ganha o crédito por isso."
+    FontSize="16"
+    HorizontalTextAlignment="Center"
+    Margin="20,20,20,10"/>
+
+        <Image
+    Source="onepunchman.jpg"
+    HorizontalOptions="Center"
+    HeightRequest="300"
+    />
     </VerticalStackLayout>
 </ContentPage>
