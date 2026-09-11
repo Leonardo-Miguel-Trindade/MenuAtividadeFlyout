@@ -5,8 +5,22 @@
              Title="DemonSlayerPage">
     <VerticalStackLayout>
         <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
+            Text="Demon Slayer"
+            FontSize="24"
+            FontAttributes="Bold"
+            HorizontalTextAlignment="Center"
+            Margin="0,20,0,10"/>
+        
+        <Label 
+            Text="Demon Slayer: Kimetsu no Yaiba acompanha a jornada de Tanjiro Kamado, um jovem bondoso que vive nas montanhas com sua família, ganhando a vida vendendo carvão. Sua vida muda drasticamente quando, ao retornar de um dia de trabalho, ele descobre que quase toda a sua família foi brutalmente assassinada por um demônio, restando apenas sua irmã mais nova, Nezuko. No entanto, Nezuko foi transformada em um demônio, embora, de forma surpreendente, ainda consiga reter sinais de emoções e pensamentos humanos. Determinado a vingar sua família e encontrar uma cura para trazer sua irmã de volta à forma humana, Tanjiro decide se juntar à Corporação de Caçadores de Demônios. Sob a tutela de mestres e com a ajuda de novos aliados, como os caçadores Zenitsu e Inosuke, ele enfrenta perigosas criaturas enquanto busca o paradeiro de Muzan Kibutsuji, o Rei dos Demônios e o responsável por toda a sua tragédia."
+            FontSize="16"
+            HorizontalTextAlignment="Center"
+            Margin="20,20,20,10"/>
+
+        <Image
+            Source="demonslayer.jpg"
+            HorizontalOptions="Center"
+            HeightRequest="300"
+            />
     </VerticalStackLayout>
 </ContentPage>
