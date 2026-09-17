@@ -6,41 +6,40 @@
     <ScrollView>
         <VerticalStackLayout>
             <Label 
-    Text="Naruto"
-    FontSize="24"
-    FontAttributes="Bold"
-    HorizontalTextAlignment="Center"
-    Margin="0,20,0,10"/>
+                Text="Naruto"
+                FontSize="24"
+                FontAttributes="Bold"
+                HorizontalTextAlignment="Center"
+                Margin="0,20,0,10"/>
 
             <Label 
-    Text="Naruto é uma saga épica sobre superação, laços e a busca por reconhecimento. A história gira em torno de Naruto Uzumaki, um jovem órfão que vive na Vila Oculta da Folha (Konoha). Quando bebê, ele teve a Kyūbi (a temível Raposa de Nove Caudas) selada em seu corpo pelo Quarto Hokage, que sacrificou a vida para salvar a aldeia. Por carregar o demônio, Naruto cresceu rejeitado e solitário, mas canalizou o sofrimento no sonho inabalável de se tornar o Hokage, o líder máximo e ninja mais respeitado de sua vila."
-    FontSize="16"
-    HorizontalTextAlignment="Center"
-    Margin="20,20,20,10"/>
+                Text="Naruto é uma saga épica sobre superação, laços e a busca por reconhecimento. A história gira em torno de Naruto Uzumaki, um jovem órfão que vive na Vila Oculta da Folha (Konoha). Quando bebê, ele teve a Kyūbi (a temível Raposa de Nove Caudas) selada em seu corpo pelo Quarto Hokage, que sacrificou a vida para salvar a aldeia. Por carregar o demônio, Naruto cresceu rejeitado e solitário, mas canalizou o sofrimento no sonho inabalável de se tornar o Hokage, o líder máximo e ninja mais respeitado de sua vila."
+                FontSize="16"
+                HorizontalTextAlignment="Center"
+                Margin="20,20,20,10"/>
 
             <Label 
-    Text="Na primeira fase da obra, ao se formar na Academia Ninja, Naruto é integrado ao Time 7 ao lado de Sakura Haruno, por quem tem uma queda, e Sasuke Uchiha, um prodígio movido pelo desejo de vingança contra o próprio irmão, Itachi, que exterminou todo o seu clã. Sob a tutela do experiente mentor Kakashi Hatake, os três realizam missões perigosas, enfrentando ameaças marcantes como Zabuza Momochi e participando do brutal Exame Chunin. Durante o exame, Konoha é invadida por Orochimaru, um ninja renegado que mata o Terceiro Hokage e foca seus planos em Sasuke. Seduzido pela promessa de poder de Orochimaru para cumprir sua vingança, Sasuke abandona a vila. Naruto tenta impedi-lo em uma batalha emocionante no Vale do Fim, mas falha. O protagonista decide então partir em um treinamento de três anos com o lendário Sábio Tarado, Jiraiya."
-    FontSize="16"
-    HorizontalTextAlignment="Center"
-    Margin="20,20,20,10"/>
+                Text="Na primeira fase da obra, ao se formar na Academia Ninja, Naruto é integrado ao Time 7 ao lado de Sakura Haruno, por quem tem uma queda, e Sasuke Uchiha, um prodígio movido pelo desejo de vingança contra o próprio irmão, Itachi, que exterminou todo o seu clã. Sob a tutela do experiente mentor Kakashi Hatake, os três realizam missões perigosas, enfrentando ameaças marcantes como Zabuza Momochi e participando do brutal Exame Chunin. Durante o exame, Konoha é invadida por Orochimaru, um ninja renegado que mata o Terceiro Hokage e foca seus planos em Sasuke. Seduzido pela promessa de poder de Orochimaru para cumprir sua vingança, Sasuke abandona a vila. Naruto tenta impedi-lo em uma batalha emocionante no Vale do Fim, mas falha. O protagonista decide então partir em um treinamento de três anos com o lendário Sábio Tarado, Jiraiya."
+                FontSize="16"
+                HorizontalTextAlignment="Center"
+                Margin="20,20,20,10"/>
 
             <Label 
-    Text="A segunda fase, conhecida como Naruto Shippuden, começa com o retorno de um Naruto mais maduro e poderoso. O cenário mundial tornou-se sombrio devido à Akatsuki, uma organização criminosa de ninjas renegados que captura os Jinchurikis (portadores de Bestas com Cauda) para dominar o mundo. Enquanto lida com perdas devastadoras, como a morte de Jiraiya, Naruto treina o Modo Sennin e salva Konoha da destruição completa ao derrotar Pain, o líder da organização, tornando-se finalmente o herói aclamado pela vila."
-    FontSize="16"
-    HorizontalTextAlignment="Center"
-    Margin="20,20,20,10"/>
+                Text="A segunda fase, conhecida como Naruto Shippuden, começa com o retorno de um Naruto mais maduro e poderoso. O cenário mundial tornou-se sombrio devido à Akatsuki, uma organização criminosa de ninjas renegados que captura os Jinchurikis (portadores de Bestas com Cauda) para dominar o mundo. Enquanto lida com perdas devastadoras, como a morte de Jiraiya, Naruto treina o Modo Sennin e salva Konoha da destruição completa ao derrotar Pain, o líder da organização, tornando-se finalmente o herói aclamado pela vila."
+                FontSize="16"
+                HorizontalTextAlignment="Center"
+                Margin="20,20,20,10"/>
 
             <Label 
-    Text="Paralelamente, a busca por Sasuke se intensifica, mas o Uchiha descobre que o massacre de seu clã foi uma missão secreta ordenada pelos próprios líderes de Konoha para evitar uma guerra civil, o que o faz direcionar seu ódio contra a própria Vila da Folha. A trama atinge seu ápice com a eclosão da Quarta Grande Guerra Ninja, onde todas as vilas ocultas se unem contra os planos de Obito Uchiha e do ressuscitado Madara Uchiha. Eles planejam ativar o Tsukuyomi Infinito, um genjutsu eterno para prender a humanidade em uma ilusão perfeita. No clímax da guerra, a verdadeira mentora por trás da história ninja, a deusa Kaguya Ōtsutsuki, é revivida. Naruto e Sasuke ganham poderes divinos e unem forças para selá-la, salvando o universo. Com o mundo salvo, os dois amigos travam um último e definitivo duelo no Vale do Fim para resolver suas divergências ideológicas. A luta termina em um empate onde ambos perdem um braço, e Sasuke finalmente aceita o laço de amizade com Naruto, redimindo-se. Anos mais tarde, com a paz estabelecida e casado com Hinata Hyuga, Naruto Uzumaki realiza seu sonho de infância e é coroada como o Sétimo Hokage."
-    FontSize="16"
-    HorizontalTextAlignment="Center"
-    Margin="20,20,20,10"/>
+                Text="Paralelamente, a busca por Sasuke se intensifica, mas o Uchiha descobre que o massacre de seu clã foi uma missão secreta ordenada pelos próprios líderes de Konoha para evitar uma guerra civil, o que o faz direcionar seu ódio contra a própria Vila da Folha. A trama atinge seu ápice com a eclosão da Quarta Grande Guerra Ninja, onde todas as vilas ocultas se unem contra os planos de Obito Uchiha e do ressuscitado Madara Uchiha. Eles planejam ativar o Tsukuyomi Infinito, um genjutsu eterno para prender a humanidade em uma ilusão perfeita. No clímax da guerra, a verdadeira mentora por trás da história ninja, a deusa Kaguya Ōtsutsuki, é revivida. Naruto e Sasuke ganham poderes divinos e unem forças para selá-la, salvando o universo. Com o mundo salvo, os dois amigos travam um último e definitivo duelo no Vale do Fim para resolver suas divergências ideológicas. A luta termina em um empate onde ambos perdem um braço, e Sasuke finalmente aceita o laço de amizade com Naruto, redimindo-se. Anos mais tarde, com a paz estabelecida e casado com Hinata Hyuga, Naruto Uzumaki realiza seu sonho de infância e é coroada como o Sétimo Hokage."
+                FontSize="16"
+                HorizontalTextAlignment="Center"
+                Margin="20,20,20,10"/>
 
             <Image
-    Source="naruto.jpg"
-    HorizontalOptions="Center"
-    HeightRequest="300"
-        />
+                Source="naruto.jpg"
+                HorizontalOptions="Center"
+                HeightRequest="300"/>
         </VerticalStackLayout>
 
     </ScrollView>

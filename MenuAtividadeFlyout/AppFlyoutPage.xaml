@@ -26,6 +26,10 @@
                 <Button Text ="One Punch Man"
                         Clicked="OnonepunchmanClicked"
                         WidthRequest="200"/>
+                
+                <Button Text ="Home"
+                        Clicked="OnhomeClicked"
+                        WidthRequest="200"/>
 
             </StackLayout>
         </ContentPage>

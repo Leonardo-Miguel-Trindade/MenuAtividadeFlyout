@@ -19,6 +19,7 @@
 
         <Image
             Source="onepiece.png"
+            
             HorizontalOptions="Center"
             HeightRequest="300"
             />
